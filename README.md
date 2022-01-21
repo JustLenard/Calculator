@@ -1,8 +1,15 @@
 # Calculator
 
-A more complex version of a calculator that accepts complex logic as input. Expressions like 2 ^ ( 9 x 9 ^ 0.5 + 36 ^ ( 1 / 2 ) - 33 ) are acceptable.
-
-Live Demo:  
+This is not a simple calculator.  
+  
+No, my version of it can do complex logic. It fully supports parenthesis and power.  
+ 
+Inputs like this:  
+    
+2 * (8 ^ (3 - 2 * 0.5 + 9 ^ 2 / 3) + 5) ^ 0.5 - 5  
+  
+are fully supported.  
+Live Demo:    
 https://justlenard.github.io/Calculator/
 
 P.S.: pss, the answer is 1.
